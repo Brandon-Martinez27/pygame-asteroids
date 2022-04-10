@@ -1,4 +1,4 @@
-# Using Pygame to Build an Asteroids Game in Python
+# Using Pygame to Build Games in Python
 
 ## Background
 >Python PyGame library is used to create video games. This library includes several modules for playing sound, drawing graphics, handling mouse inputs, etc. It is also used to create client-side applications that can be wrapped in standalone executables.
