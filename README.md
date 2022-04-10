@@ -1,16 +1,9 @@
 # Using Pygame to Build an Asteroids Game in Python
 
 ## Background
-Do you want to create your own computer games but like Python too much to abandon it for a career as a game developer? There’s a solution for that! With the Pygame module, you can use your amazing Python skills to create games, from the basic to the very complex. Below, you’ll learn how to use Pygame by making a clone of the Asteroids game!
+>Python PyGame library is used to create video games. This library includes several modules for playing sound, drawing graphics, handling mouse inputs, etc. It is also used to create client-side applications that can be wrapped in standalone executables.
 
-In this course, you’ll learn how to build a complete game, including:
-
-- Loading images and displaying them on the screen
-- Handling user input in order to control the game
-- Moving objects according to the game logic
-- Detecting collisions between objects
-- Displaying text on the screen
-- Playing sounds
+This Python PyGame tutorial will help to learn the Pygame from basic to advance with the help of good and well-explained examples.
 
 ### References
-[RealPython][https://realpython.com/courses/asteroids-game-python-pygame/]
+[Pygame Tutorial](https://www.geeksforgeeks.org/introduction-to-pygame/)
